@@ -95,7 +95,7 @@ Implemented a robust data pipeline using TensorFlow's `ImageDataGenerator`:
 
 ---
 
-## 🛠️ Technical Skills Demonstrated
+## 🛠️ Technical Components
 
 | Category | Technologies & Techniques |
 |----------|--------------------------|
